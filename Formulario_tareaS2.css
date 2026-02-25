@@ -1,0 +1,19 @@
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: yellow;
+}
+#name {
+  font-family: 'Courier New', Courier, monospace;
+  color: white;
+}
+#mat {
+      font-family: 'Courier New', Courier, monospace;
+      color: white;
+}
+#mat1 {
+  font-family: 'Courier New', Courier, monospace;
+  color: white;
+}
+body {
+  background-color: chocolate;
+}
